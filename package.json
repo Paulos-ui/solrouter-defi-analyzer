@@ -1,0 +1,29 @@
+{
+  "name": "solrouter-defi-analyzer",
+  "version": "1.0.0",
+  "description": "Private DeFi Portfolio Analyzer — encrypted AI inference via SolRouter on Solana",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "analyze": "tsx src/index.ts"
+  },
+  "keywords": ["solana", "defi", "privacy", "ai", "encrypted-inference", "solrouter"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "@solrouter/sdk": "latest",
+    "axios": "^1.7.2",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5",
+    "ora": "^8.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "tsx": "^4.15.6",
+    "typescript": "^5.4.5"
+  }
+}
