@@ -72,7 +72,7 @@ Your wallet data
  
 ## Demo
  
-[![Demo Video](https://img.shields.io/badge/Demo-Watch%20on%20Loom-blueviolet?style=for-the-badge)](https://loom.com/your-demo-link)
+[![Demo Video](https://img.shields.io/badge/Demo-Watch%20on%20Loom-blueviolet?style=for-the-badge)](https://www.loom.com/share/78948597e6164b8284ad06988f45afa7)
  
 **Live terminal output (real run on Solana devnet):**
  
